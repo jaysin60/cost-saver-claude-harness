@@ -1,0 +1,9 @@
+# Written by Claude Code each time it loads the plugin from this folder
+.claude-plugin/types/
+.mcpb-cache/
+
+# OS and editor files
+.DS_Store
+*~
+*.swp
+*.log

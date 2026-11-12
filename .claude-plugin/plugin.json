@@ -1,0 +1,10 @@
+{
+  "name": "agent-flow",
+  "version": "0.1.0",
+  "description": "A live dashboard pane for every tool call and subagent in your session, plus five model-tiered agents (Haiku scout/runner, Opus advisor, Fable lead-advisor and architect) that keep token spend down",
+  "author": { "name": "jaysin60" },
+  "repository": "https://github.com/jaysin60/cost-saver-claude-harness",
+  "license": "MIT",
+  "keywords": ["dashboard", "subagents", "orchestration", "cost", "tokens", "model-routing"],
+  "types": "./types/index.d.ts"
+}

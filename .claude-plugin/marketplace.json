@@ -1,0 +1,11 @@
+{
+  "name": "cost-saver-claude-harness",
+  "owner": { "name": "jaysin60" },
+  "plugins": [
+    {
+      "name": "agent-flow",
+      "source": "./",
+      "description": "Live agent & tool-call dashboard plus model-tiered agents for cheaper Claude Code sessions"
+    }
+  ]
+}
